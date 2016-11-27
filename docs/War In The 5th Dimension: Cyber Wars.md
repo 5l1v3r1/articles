@@ -1,4 +1,4 @@
-5. Boyutta Savaş: Siber Savaş - I 
+5. Boyutta Savaş: Siber Savaş
 ===================
 
 
@@ -18,7 +18,7 @@ Soğuk savaşın sürdüğü 1957 yılında SSCB'nin (Sovyet Sosyalist Cumhuriye
 
 Yeni milenyum ile internet hayatımızın çok önemli bir parçası olmuştur. E-ticaret, e-posta, e-devlet gibi "E-"(elektronik) önekine sahip kavramlar ile İnternet ile beraber hayatımıza bir anda giren kavramlardır. İnternet’i etkin olarak kullandığımız 10-15 sene gibi bir süre zarfında içerisinde "Siber" kelimesi geçen birçok yeni kavram daha ortaya çıkmıştır. Siber uzay, siber silah, siber güvenlik, siber casusluk siber savaş gibi. Bu kavramlar ve ifade ediliş biçimleri şu şekildedir.
 
-![enter image description here](https://www.bilgiguvenligi.gov.tr/images/stories/emre/sibersavaslar/siberuzay.jpg.jpg)
+![Siber Uzay](https://www.bilgiguvenligi.gov.tr/images/stories/emre/sibersavaslar/siberuzay.jpg.jpg)
 
 Amerikan Savunma Bakanlığı'nca: “İnternet’in bulunduğu, telekomünikasyon ağları ve bilgisayar sistemlerini de içine alan, birbirine bağlı bilgi teknolojileri altyapılarının olduğu küresel bir alan” olarak tanımlanmıştır. Diğer bir tanımlama da ise şu şekilde geçmektedir: “insanların bilgisayarlar ve telekomünikasyon sistemleri aracılığıyla herhangi bir coğrafi sınırlamaya maruz kalmadan tamamen birbirine bağlı olma durumudur” [Hildreth]
 
@@ -32,7 +32,7 @@ Siber uzayı ve içindeki varlıkları korumak için yürütülen harekâtların
 
 **Siber Silah:**
 
-![enter image description here](https://www.bilgiguvenligi.gov.tr/images/stories/emre/sibersavaslar/sibersilah-i.jpg)
+![Siber silah](https://www.bilgiguvenligi.gov.tr/images/stories/emre/sibersavaslar/sibersilah-i.jpg)
 
 Siber ataklar sırasında karşı tarafı etkisiz bırakmak, zarar vermek ve veri çalmak için kullanılan siber ortam araçlarına siber silah denir. Savaşlarda kullanılan güdümlü füzeyi düşündüğümüzde 3 temel unsurdan oluşmaktadır. İlki bir iletim aracı (roket motoru), ikincisi navigasyon sistemi, üçüncü olarak da roketin taşıdığı patlayıcı yük. Aynı unsurlar siber silah için de geçerlidir. Siber silahın  hedefe ulaşmasını sağlayan web siteleri, USB diskler, mailler  gibi iletim araçları. Hedefteki sistemde ilgili zafiyetin bulunması navigasyon ve  zafiyeti bulunan sistemin istismar edilerek zararlı yazılımın çalışması gerçek silahlardaki patlayıcı kısmına denk gelmektedir.
 
